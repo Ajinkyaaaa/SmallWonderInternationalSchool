@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["bom1"],
+  "env": {
+    "GOOGLE_APPS_SCRIPT_URL": "@google_apps_script_url",
+    "GOOGLE_APPS_SCRIPT_URL1": "@google_apps_script_url1"
+  }
+} 
